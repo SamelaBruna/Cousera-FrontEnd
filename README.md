@@ -1,2 +1,2 @@
 # Cousera-FrontEnd
-Conteúdos implemetados ao decorrer do curso. 
+Conteúdos implementados ao decorrer do curso. 
